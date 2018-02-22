@@ -1,4 +1,4 @@
-## ¿Qué es Chamilo? {#qu-es-chamilo}
+## ¿Qué es Chamilo? 
 
 Chamilo LMS es un sistema para gestión de la formación \(L_earning Management_ S_ystem\)_ diseñado para apoyar a la educación online \(frecuentemente denominada _e-learning_\). Es un software gratuito que ha sido desarrollado a través de la colaboración de varias empresas, organizaciones e individuos de acuerdo con un modelo conocido como Open Source \(código libre\), pero con estrictos valores éticos.
 
